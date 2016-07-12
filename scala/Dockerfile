@@ -1,6 +1,6 @@
 FROM java:openjdk-8
 
-ENV SCALA_VERSION 2.11.7
+ENV SCALA_VERSION 2.12.0-M4
 
 WORKDIR /usr/local
 
